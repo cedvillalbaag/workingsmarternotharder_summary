@@ -98,7 +98,7 @@ Author: Timo Kiander.
   - B. Since you don’t have a system to did with incoming material, it’s easier to leave it as is.
 
 
-18.- Have a personal knowdlegde base.
+## 18.- Have a personal knowdlegde base.
 - Create a personal knowledge base file when you store all the issues you had in the past and their solutions.
 
 
