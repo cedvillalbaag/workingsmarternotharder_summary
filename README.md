@@ -9,16 +9,18 @@ Author: Timo Kiander.
 ## 2.- Track your Hours.
 - Analyze how you can improve your work next week.
 
-## 3.- Write an Operating Document
+
+## 3.- Write an Operating Document.
 - Standarized procedures. 
 
-## 4.- Show your skills
+
+## 4.- Show your skills.
 - List all of your special experiences and skills.
 
-## 5.- Take advantage of conmmuting times
-- Reading
-- Sleeping
-- Educating yourself
+## 5.- Take advantage of commuting times.
+- Reading.
+- Sleeping.
+- Educating yourself.
 - Make sure I know what I’m going to do.
 
   
@@ -30,21 +32,21 @@ Author: Timo Kiander.
 - Keep on fine tunning the rituals to make then even more effective.
 
   
-## 7.- Set the expectations right
-- Job interview
-- Delivering your work on time
-- Be honest with yourself
+## 7.- Set the expectations right.
+- Job interview.
+- Delivering your work on time.
+- Be honest with yourself.
 
 
-## 8.- Preparation is the key to success
+## 8.- Preparation is the key to success.
 - Learn more about the coming assignment.
 - The potential scenarios in advance to mentally prepare for then.
 
 
-## 9.- Turn off electronics early enough (Sleep)
+## 9.- Turn off electronics early enough (Sleep).
 
 
-## 10.- Change your workspace based in the task
+## 10.- Change your workspace based in the task.
 - Work done on different locations.
     - Meeting room.
     - Coffe shop.
@@ -56,13 +58,13 @@ Author: Timo Kiander.
 - Excercise.
 
 
-## 12.-  Keep other update of the status of long running
+## 12.-  Keep other update of the status of long running.
 - Keep others updated.
 - Be proactive about checking the status of an assignment.
 
 
-## 13.-  Have a status meeting every day
-- Have a daily status meeting
+## 13.-  Have a status meeting every day.
+- Have a daily status meeting:
   -   What did you do yesterday?
   -   What are you planning to do today?
   -   Have you run into any issues in your work?
@@ -70,9 +72,9 @@ Author: Timo Kiander.
 
 ## 14.- Keep perfection at bay
 - Sometimes, you can move forward on projects without having everything in order, especially on non-critical projects or work.
-- Make a chcklist of minimun requirements.
+- Make a checklist of minimun requirements.
 
-## 15.- Crea habitos saludables por accidente
+## 15.- Create healthy habits by accident.
 - Put water.
 - Eat fruit.
 - Usar standing desk.
@@ -81,7 +83,7 @@ Author: Timo Kiander.
 
 ## 16.- Waiting time cab be productive, too.
 
-- Create a list of backup tasks you could do while you can’t work pon your main task.
+- Create a list of back-up tasks you could do, while you can’t work on your main task.
     - Educate yourself.
     - Document steps of certain task.
     - Process your email.
@@ -90,13 +92,13 @@ Author: Timo Kiander.
     - Declutter and organize your work space.
 
 
-## 17.- Don’t let the clutter escalate
+## 17.- Don’t let the clutter escalate.
 - Two principles of acumulating clutter:
   - A. Procastination
   - B. Since you don’t have a system to did with incoming material, it’s easier to leave it as is.
 
 
-18.- Have a personal knowdlegde base
+18.- Have a personal knowdlegde base.
 - Create a personal knowledge base file when you store all the issues you had in the past and their solutions.
 
 
@@ -106,14 +108,14 @@ Author: Timo Kiander.
 ## 20.- Try to find and eliminator task in a group of similar talks.
 -
 
-## 21.- Ask: what can I do to improve the productivity for other?
+## 21.- Ask: what can I do to improve the productivity for other?.
 - Be considerate towards . Take your calls in a meeting room.
 - Share your knowledge with your coworks.
 - Offer yout help to others when they need it.
 
 
 ## 22.- Use a standing desk
-
+-
 
 ## 23.- Know when you’re working an when you are not.
 - Define a time of the day when you will stop working.
