@@ -3,18 +3,23 @@ Title: Working smarter, not harder 2.0.
 Author: Timo Kiander.
 
 ## 1.-  Write Things Down
-- 
+- Write down notes any time you need.
+- Take a pen and paper with you in every meeting.
+- Store the notes in the cloud.
 
 
 ## 2.- Track your Hours.
+- Create a simple spreadsheet to track and update every day.
 - Analyze how you can improve your work next week.
 
 
 ## 3.- Write an Operating Document.
+- Create a paper-based docuemnt where you write down all the important things related to your new job.
 - Standarized procedures. 
 
 
 ## 4.- Show your skills.
+- Talk about your hobbies or other experiences with your boss or colleagues.
 - List all of your special experiences and skills.
 
 ## 5.- Take advantage of commuting times.
@@ -115,7 +120,8 @@ Author: Timo Kiander.
 
 
 ## 22.- Use a standing desk
--
+- Consider purchasing a standing desk in order to reduce the amount of sitting you do.
+- Conside buying a satnding mat, too
 
 ## 23.- Know when you’re working an when you are not.
 - Define a time of the day when you will stop working.
@@ -123,12 +129,10 @@ Author: Timo Kiander.
 
 
 ## 24.- Buy some free time with your salary.
-
 - If possible, invest at leass part of your salary outsourcing mundane free time tasks.
 
 
 ## 25.- Let others to know they can interrupt you.
-
 - Be clear about when you shouldn’t be interrupt.
 - Take care both of the electronincs and coworkers  related interruptions.
 
